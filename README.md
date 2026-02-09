@@ -12,5 +12,4 @@ Retail Analytics project using SQL, MySQL &amp; Power BI
 - Revenue is concentrated among few high-performing products
 - Customer distribution is balanced across genders
 
-## Dashboard Preview
 ![Dashboard](dashboard.png)
